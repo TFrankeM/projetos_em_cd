@@ -175,3 +175,12 @@ cython_debug/
 
 # Subsets folder
 subset_msmarco_train_0/
+
+# Models folder
+models/
+
+# Data folder
+data/
+
+# Vespa application folder
+hybridsearch/
